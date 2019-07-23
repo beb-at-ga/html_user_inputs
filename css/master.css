@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    width: 960px;
+}
+
+h1 {
+    font-size: 34px;
+    margin: 10px 0px;
+}
+
+p {
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+div {
+    margin: 10px 0px;
+    font-size: 20px;
+}
